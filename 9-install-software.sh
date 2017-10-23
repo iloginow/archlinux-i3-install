@@ -75,6 +75,7 @@ sudo pacman -S --noconfirm --needed ruby
 sudo pacman -S --noconfirm --needed gvim tmux
 gem install tmuxinator
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+auri vim-youcompleteme-git
 
 # Browser
 auri google-chrome
